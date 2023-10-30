@@ -1,0 +1,8 @@
+100 Pham-Tien-Dung 20
+102 Dao-Duc-Nghia 29
+103 Dao-Duy-Hai 29
+104 Pham-Duc-Manh 12
+105 Dao-Duc-Ngat 67
+106 Dao-Duc-Hanh 12
+109 Cao-Thi-Yen 20
+110 Bao-Anh 20
